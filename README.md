@@ -2,8 +2,6 @@
 
 An elegant desktop application that uses deep learning to automatically generate descriptive captions for images.
 
----
-
 ## Features
 
 🖼️ Upload and preview images
@@ -37,6 +35,11 @@ Caption Generation: An LSTM-based decoder generates natural language description
 Text Processing: The generated text is processed to create grammatically correct and coherent captions
 
 ---
+
+## Preview
+
+<img width="960" alt="Screenshot 2025-04-27 234527" src="https://github.com/user-attachments/assets/a7f3a095-5fbf-43ca-858d-18104d2cc276" />
+
 
 
  
